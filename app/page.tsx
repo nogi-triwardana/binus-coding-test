@@ -31,7 +31,7 @@ export default function Home() {
                   <span className="text-xs">September 13, 2023</span>
                 </div>
                 <div className="border-t-2 border-[#5e5e5e] text-[#5e5e5e] text-left w-full p-4">
-                  <h2 className="font-semibold">Empowering Tomorrow's Communicators: The Graduate Profile</h2>
+                  <h2 className="font-semibold">Empowering Tomorrow&apos;s Communicators: The Graduate Profile</h2>
                   <span className="text-xs">September 13, 2023</span>
                 </div>
               </div>
